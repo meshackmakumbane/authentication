@@ -55,7 +55,7 @@ const Home = () => {
             API Endpoints
           </Link>
           <a 
-            href='https://github.com/meshackmakumbane' 
+            href='https://github.com/meshackmakumbane/authentication' 
             target='_blank' 
             className="border border-green-900 px-5 py-2 rounded-lg hover:bg-green-900 hover:text-white"
           >
@@ -105,7 +105,7 @@ const Home = () => {
             Login
           </Link>
           <a 
-            href='https://github.com/meshackmakumbane' 
+            href='https://github.com/meshackmakumbane/authentication' 
             target='_blank' 
             className="border border-green-900 px-5 py-2 rounded-lg hover:bg-green-900 hover:text-white"
           >
